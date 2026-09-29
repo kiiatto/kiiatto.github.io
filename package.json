@@ -15,6 +15,7 @@
     "astro": "^7.3.5"
   },
   "allowScripts": {
-    "esbuild": true
+    "esbuild": true,
+    "sharp": true
   }
 }
